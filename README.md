@@ -1,7 +1,7 @@
 # AlbumGallery - Typecho 记忆相册插件
 
 一个优雅的 Typecho 相册插件，自动从文章中提取图片，支持云存储缩略图、背景音乐和灯箱预览。
-
+林间随笔:https://linyu.live
 ## 功能特性
 
 - 📸 **自动提取图片** - 从指定分类的文章中自动提取 Markdown 图片
@@ -19,7 +19,7 @@
 2. 将插件文件夹命名为 `AlbumGallery`（必须严格匹配大小写）
 3. 上传到 `usr/plugins/` 目录
 4. 确保文件结构如下：
-
+Github官方仓库：https://github.com/1925293325/Lin.
 ###激活插件
 1. 登录 Typecho 后台
 2. 进入 控制台 → 插件
